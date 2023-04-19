@@ -1,8 +1,8 @@
 # eOnsightTestTechnique
 Ce projet est un test technique en deux parties: DataEngineering et ImagesSatellite.
-  ###DataEngineering
+  **DataEngineering**
 Ce projet vise à agréger d'une page wikipedia présentant des données de ponts (noms,  coordonnées géographiques...) qui se trouvent à Gênes en Italie et les mettre dans une base de données. Le tout doit être exécuté depuis un serveur distant au choix (GCP, AWS, Heroku, serveur perso, ...) puis exposer la base de données.
-  ###ImagesSatellite
+  **ImagesSatellite**
 Ce projet vise à présenter ne méthode pour générer une image couleur avec un bon niveau de contraste (similaire à l’image « True color ») représentant un carré d’environ 2km centré autour du viaduc Gênes-Saint-Georges (44°25′34′′N, 8°53′19′′E) en se basant sur les images « Raw » produites par les capteurs optiques de Sentinel-2.
   
 ## Description
